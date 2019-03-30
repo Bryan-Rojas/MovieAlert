@@ -1,2 +1,2 @@
-# MovieAlert
+# MovieQB
 MovieQB LAHacks
