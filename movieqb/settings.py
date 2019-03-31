@@ -76,7 +76,6 @@ WSGI_APPLICATION = 'movieqb.wsgi.application'
 
 DATABASES = {
     'default': {
-        #'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': db_name,
         'USER': db_user,
